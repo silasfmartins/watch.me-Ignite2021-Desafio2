@@ -1,6 +1,6 @@
-<div align="center"> 
+<h1 align="center"> 
   <img alt="Watch.me" height="80" title="Watch.me" src="./public/image.jpg" />
-</div>
+</h1>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/github/license/silasfmartins/watch.me-Ignite2021-Desafio2">
