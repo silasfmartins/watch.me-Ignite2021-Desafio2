@@ -34,7 +34,9 @@ Em seguida, inicie o projeto.
 
 ```cl
 npm run dev
-ou
+```
+ou 
+```cl
 yarn dev
 ```
 
